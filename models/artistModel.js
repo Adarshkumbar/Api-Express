@@ -1,4 +1,4 @@
-//Create schema / model
+// schema / model
 
 const { default: mongoose } = require("mongoose");
 
